@@ -262,7 +262,7 @@ body {
   }
   .anim{
     font-size: 70px;
-    margin-left: -75%;
+    margin-left: -85%;
   }
   .hello_Iam{
     font-size: 30px;
@@ -282,7 +282,9 @@ body {
 
   }
   .anim2{
-    font-size: 70px;
-    margin-left:-165% ;
+    font-size: 60px;
+    margin-left:-185% ;
+
   }
+
 }
